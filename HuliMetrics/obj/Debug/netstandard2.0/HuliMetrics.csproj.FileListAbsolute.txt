@@ -1,8 +1,0 @@
-/home/pontiac/huli-metrics-csharp/HuliMetrics/bin/Debug/netstandard2.0/HuliMetrics.deps.json
-/home/pontiac/huli-metrics-csharp/HuliMetrics/bin/Debug/netstandard2.0/HuliMetrics.dll
-/home/pontiac/huli-metrics-csharp/HuliMetrics/bin/Debug/netstandard2.0/HuliMetrics.pdb
-/home/pontiac/huli-metrics-csharp/HuliMetrics/obj/Debug/netstandard2.0/HuliMetrics.csproj.CoreCompileInputs.cache
-/home/pontiac/huli-metrics-csharp/HuliMetrics/obj/Debug/netstandard2.0/HuliMetrics.AssemblyInfoInputs.cache
-/home/pontiac/huli-metrics-csharp/HuliMetrics/obj/Debug/netstandard2.0/HuliMetrics.AssemblyInfo.cs
-/home/pontiac/huli-metrics-csharp/HuliMetrics/obj/Debug/netstandard2.0/HuliMetrics.dll
-/home/pontiac/huli-metrics-csharp/HuliMetrics/obj/Debug/netstandard2.0/HuliMetrics.pdb
