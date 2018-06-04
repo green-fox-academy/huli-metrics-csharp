@@ -1,7 +1,8 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workbench ActiveDocument="MetricsPoster.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Metrics.cs">
     <Files>
-      <File FileName="MetricsPoster.cs" Line="38" Column="6" />
+      <File FileName="Metrics.cs" Line="24" Column="5" />
+      <File FileName="Event.cs" Line="9" Column="36" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
